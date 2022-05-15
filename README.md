@@ -1,6 +1,1 @@
 # Informe-Tarea-1
-
-		
-
-
-
