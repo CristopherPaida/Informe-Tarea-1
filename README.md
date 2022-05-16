@@ -150,6 +150,131 @@ Capítulo 1
 
 Capítulo 2
 
+2. ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
+
+![image](https://user-images.githubusercontent.com/105565670/168501108-2c010dc8-8d04-4924-bfad-2cbf80911d6c.png)
+
+4.
+
+![image](https://user-images.githubusercontent.com/105565670/168501127-842dbe2e-13cf-4703-9b27-c7b380527dc4.png)
+
+6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje
+a través del resistor?
+
+![image](https://user-images.githubusercontent.com/105565670/168501146-73abaf87-1478-4e83-b6f3-f9309e5b2943.png)
+
+8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
+
+![image](https://user-images.githubusercontent.com/105565670/168501164-0e2d93b4-c0ff-4ef2-ad31-2fa677e8044e.png)
+
+10. Determine la corriente en cada uno de los siguientes casos:
+
+![image](https://user-images.githubusercontent.com/105565670/168501183-e97511be-4b47-475c-a914-4199c1801ba8.png)
+
+12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A
+
+![image](https://user-images.githubusercontent.com/105565670/168501198-46b182c0-32bd-4dfb-a95a-b45f22eb52be.png)
+
+14.
+
+![image](https://user-images.githubusercontent.com/105565670/168501241-d72e5276-c803-438d-b0c1-c8d36e12cc2b.png)
+
+16. Encuentre la resistencia correspondiente a las siguientes conductancias:
+
+![image](https://user-images.githubusercontent.com/105565670/168501257-7ce1f81c-6653-418e-a28c-b8dbd4608b27.png)
+
+18. ¿En qué principio se basan los generadores eléctricos?
+
+Por medio del principio inducción electromagnética
+
+20.
+
+![image](https://user-images.githubusercontent.com/105565670/168501292-c5325bdb-dedc-4831-8ea6-03526d89e6c2.png)
+
+22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del
+problema 21.
+
+![image](https://user-images.githubusercontent.com/105565670/168501316-64ab75ec-b757-49fb-89e8-b97f68a2a0fb.png)
+
+24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
+
+![image](https://user-images.githubusercontent.com/105565670/168501332-6baf9785-cc95-4635-aca0-9a9fd8f549d7.png)
+
+26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
+
+![image](https://user-images.githubusercontent.com/105565670/168501344-92c86f98-7190-4e14-aa9a-2b50f16afc7c.png)
+
+28.
+
+![image](https://user-images.githubusercontent.com/105565670/168501361-71762baa-e26c-43bf-93f9-765ca4608e6a.png)
+
+30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue
+
+![image](https://user-images.githubusercontent.com/105565670/168501394-2507c373-908e-4138-9094-eed26ec2d338.png)
+
+32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente exceciva
+
+![image](https://user-images.githubusercontent.com/105565670/168501407-4e1bb913-3937-45c9-8e8a-e20d588cb6dd.png)
+
+Nuevo trazo
+
+![image](https://user-images.githubusercontent.com/105565670/168501429-efd4dda0-4683-42e3-bb52-9428e7fd543b.png)
+
+34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
+
+![image](https://user-images.githubusercontent.com/105565670/168501451-ad4759cb-d2cf-43f9-8806-bfa9ecae3887.png)
+
+El resistor R5 siempre tendrá corriente, debido a que el interruptor SW1 sin importar en que entrada esté conectada le dará corriente al resistor R5.
+
+36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que
+aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el
+fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador
+de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una
+sección puede ser conectada al amplificador.
+
+![image](https://user-images.githubusercontent.com/105565670/168501541-541a4cdc-6827-4395-805b-edacfa416329.png)
+
+Para este sistema lo mejor sería utilizar un solo interruptor que conecte una sección al amplificador, el cual es el interruptor rotatorio, el cual podemos cambiar de sección por medio de una perilla en la siguiente imagen se muestra cómo sería el sistema
+
+![image](https://user-images.githubusercontent.com/105565670/168501554-d8c8f6a7-d57c-4055-bc31-78b79246edfc.png)
+
+38. Explique cómo mediría la resistencia de R2 en la figura 2-72.
+
+![image](https://user-images.githubusercontent.com/105565670/168501572-e20e94f8-ae91-4fc7-b0fc-3062f382a356.png)
+
+Para medir la resistencia R2, primero corto la energía y desconecto ambos extremos del resistor R2 del circuito. Este resistor conecto al óhmetro el cual me indicará su resistencia y podré obtener el valor de la resistencia R2.
+
+![image](https://user-images.githubusercontent.com/105565670/168501597-0e9db03c-dd95-4f9a-92b4-29604d845dca.png)
+
+40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la
+fuente de voltaje sin importar la posición del interruptor
+
+![image](https://user-images.githubusercontent.com/105565670/168501615-6b1a1658-cbb0-4941-b7c3-c3ddae8936e2.png)
+
+El amperímetro conectamos en serie, respetando su polaridad.
+
+![image](https://user-images.githubusercontent.com/105565670/168501629-c49c5286-cb66-4ea5-9c15-5df88f9c7d43.png)
+
+42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor 
+presente en la figura 2-70
+
+![image](https://user-images.githubusercontent.com/105565670/168501646-cb945c41-4694-4f6f-abba-248576843633.png)
+
+Conectamos los voltímetros en paralelo en todos los resistores, su terminal negativa está conectada al lado negativo del circuito y la terminal positiva de igual forma al lado positivo del circuito.
+
+![image](https://user-images.githubusercontent.com/105565670/168501659-a0c9f65c-4f07-4b7e-a8a1-fd5e72f8acca.png)
+
+44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
+
+![image](https://user-images.githubusercontent.com/105565670/168501678-d9bfc4b4-1676-46e4-93d6-c2e2d004180c.png)
+
+10000 Ω   o 10kΩ
+
+46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
+
+Un multímetro digita del 4 ½ dígitos tendrá como resolución máxima 19.999
+
+4. Video
 
 
 
