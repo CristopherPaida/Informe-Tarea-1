@@ -226,11 +226,7 @@ Nuevo trazo
 
 El resistor R5 siempre tendrá corriente, debido a que el interruptor SW1 sin importar en que entrada esté conectada le dará corriente al resistor R5.
 
-36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que
-aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el
-fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador
-de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una
-sección puede ser conectada al amplificador.
+36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizadorde FM al amplificador mediante una sola perilla de control. En un momento dado, solamente unasección puede ser conectada al amplificador.
 
 ![image](https://user-images.githubusercontent.com/105565670/168501541-541a4cdc-6827-4395-805b-edacfa416329.png)
 
@@ -246,8 +242,7 @@ Para medir la resistencia R2, primero corto la energía y desconecto ambos extre
 
 ![image](https://user-images.githubusercontent.com/105565670/168501597-0e9db03c-dd95-4f9a-92b4-29604d845dca.png)
 
-40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la
-fuente de voltaje sin importar la posición del interruptor
+40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor
 
 ![image](https://user-images.githubusercontent.com/105565670/168501615-6b1a1658-cbb0-4941-b7c3-c3ddae8936e2.png)
 
@@ -275,6 +270,26 @@ Conectamos los voltímetros en paralelo en todos los resistores, su terminal neg
 Un multímetro digita del 4 ½ dígitos tendrá como resolución máxima 19.999
 
 4. Video
+
+Link del video: https://www.youtube.com/watch?v=6WHLJCoKZPs
+
+5. Conclusiones
+
+•	Se determinó que la notación científica y de ingeniería es de gran utilidad para los ingenieros con respecto al cálculo de valores muy pequeños y grandes agilizando su proceso y evitando un margen de error.
+•	Voltaje, corriente y resistencia son cantidades fundamentales en un circuito eléctrico que cumplen una función específica para el correcto funcionamiento de tal circuito.
+•	Los resistores son de gran utilidad e importancia en un circuito eléctrico, permitiéndonos medir su resistencia ya sea con un óhmetro o por medio del calculo según el color de sus bandas.
+•	Se concluye que los circuitos eléctricos son fundamentales en los dispositivos electrónicos, dependiendo la función que se desea, se podrá construir un circuito en específico con todos los conocimientos obtenidos acerca de voltaje, corriente y resistencia.
+
+6. Bibliografía
+
+Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. México: PEARSON EDUCACIÓN.
+
+MecatrónilaLATAM. (22 de Abril de 2021). MecatrónilaLATAM. Obtenido de https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/resistor/
+Nihr, G. (28 de Marzo de 2019). Wordpress. Obtenido de https://analisisdecircuitos1.wordpress.com/2017/07/01/notacion-cientifica/
+
+paguayo. (18 de Junio de 2019). MCI Capacitación. Obtenido de https://cursos.mcielectronics.cl/2019/06/18/voltaje-corriente-resistencia-y-ley-de-ohm/#:~:text=La%20diferencia%20de%20carga%20entre,carga%20(corriente)%20de%20un%20material
+
+R, J. (2022). ComoFunciona. Obtenido de https://como-funciona.co/circuito-electrico/
 
 
 
