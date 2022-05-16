@@ -276,8 +276,11 @@ Link del video: https://www.youtube.com/watch?v=6WHLJCoKZPs
 5. Conclusiones
 
 •	Se determinó que la notación científica y de ingeniería es de gran utilidad para los ingenieros con respecto al cálculo de valores muy pequeños y grandes agilizando su proceso y evitando un margen de error.
+
 •	Voltaje, corriente y resistencia son cantidades fundamentales en un circuito eléctrico que cumplen una función específica para el correcto funcionamiento de tal circuito.
+
 •	Los resistores son de gran utilidad e importancia en un circuito eléctrico, permitiéndonos medir su resistencia ya sea con un óhmetro o por medio del calculo según el color de sus bandas.
+
 •	Se concluye que los circuitos eléctricos son fundamentales en los dispositivos electrónicos, dependiendo la función que se desea, se podrá construir un circuito en específico con todos los conocimientos obtenidos acerca de voltaje, corriente y resistencia.
 
 6. Bibliografía
